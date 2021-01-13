@@ -1,4 +1,4 @@
-@media (max-width: 720px) {
+@media (max-width: 640px) {
     body {
         width: auto;
         height: auto;
@@ -24,7 +24,6 @@
         border: double  aquamarine;
         width: 100%;
         color: azure;
-         3px 4px rgb(0, 29, 82);
     }
     a{
         text-decoration:none;
@@ -68,7 +67,7 @@
         font-size: 35px;
     }
 }
-@media (min-width: 721px){
+@media (min-width: 643px){
     body{
         background-color: black;
     }
