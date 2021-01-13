@@ -1,4 +1,4 @@
-@media (max-width: 640px) {
+@media only screen and (max-width: 640px) {
     body {
         width: auto;
         height: auto;
@@ -67,7 +67,7 @@
         font-size: 35px;
     }
 }
-@media (min-width: 643px){
+@media only screen and (min-width: 643px){
     body{
         background-color: black;
     }
