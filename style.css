@@ -24,11 +24,17 @@
         color: azure;
         width: auto;
     }
+    #name{
+        background-color: rgb(14, 0, 66);
+        border: solid  rgb(70, 78, 76);
+        color: azure;
+        width: auto;
+    }
     a{
         text-decoration:none;
     }
     h2{
-        height: 50px;
+        height: 32px;
         padding:0.4em;
         border-radius: 2em;
         margin-top: 10px;
@@ -37,8 +43,8 @@
         font-size: 1.4em;
     }
     h2:hover{
-        height: 50px;
-        padding:5px;
+        height: 32px;
+        padding:0.4em;
         border-radius: 2em;
         margin-top: 10px;
         margin-left: auto;
@@ -48,8 +54,8 @@
         font-size: 1.4em;
     }
     h2:active{
-        height: 50px;
-        padding:5px;
+        height: 32px;
+        padding:0.4em;
         border-radius: 2em;
         width: 95%;
         margin-top: 10px;
