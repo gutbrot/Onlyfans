@@ -109,7 +109,17 @@
     a{
         text-decoration:none;
     }
+    #name{
+        opacity: 0.0;
+        height: 0px;
+        width: 0px;
+    }
     h2{
+        opacity: 0.0;
+        height: 0px;
+        width: 0px;
+    }
+    hr{
         opacity: 0.0;
         height: 0px;
         width: 0px;
