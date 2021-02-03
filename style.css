@@ -38,7 +38,8 @@
         border: solid  rgb(70, 78, 76);
         color: azure;
         width: auto;
-        padding: 2px;
+        padding-top: 5px;
+        padding-bottom: 5px;
         font-size: 23px;
     }
     a{
